@@ -8,7 +8,7 @@
 import Foundation
 
 struct Constants {
-    static var API_KEY = "AIzaSyBKHl4MdNY-IDvrYcxRE3tZiXkFlHQ5H2k"
+    static var API_KEY = "AIzaSyCRa_5QSTEppYyeZ5Ih6ZmGeuOtNBLUrtU"
     static var PLAYLIST_ID = "PLMRqhzcHGw1Y5Cluhf7pKRNZtKaA3Q4kg"
-    static var API_URL = "https://youtube.googleapis.com/youtube/v3/playlists?part=snippet&id=\(PLAYLIST_ID)&key=[\(API_KEY)]"
+    static var API_URL = "https://youtube.googleapis.com/youtube/v3/playlists?part=snippet&id=\(Constants.PLAYLIST_ID)&key=\(Constants.API_KEY)"
 }
