@@ -17,6 +17,7 @@
 		5E57315C2A24F9230025C0E4 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E57315B2A24F9230025C0E4 /* Video.swift */; };
 		5E57315E2A24F9700025C0E4 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E57315D2A24F9700025C0E4 /* Model.swift */; };
 		5E5FF29F2A265741002BD75C /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5FF29E2A265741002BD75C /* Response.swift */; };
+		5E5FF2A12A278CFD002BD75C /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5FF2A02A278CFD002BD75C /* ConstantsTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		5E57315B2A24F9230025C0E4 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		5E57315D2A24F9700025C0E4 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		5E5FF29E2A265741002BD75C /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
+		5E5FF2A02A278CFD002BD75C /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				5E5731502A24E0EC0025C0E4 /* LaunchScreen.storyboard */,
 				5E5731532A24E0EC0025C0E4 /* Info.plist */,
 				5E5731592A24F6C50025C0E4 /* Constants.swift */,
+				5E5FF2A02A278CFD002BD75C /* ConstantsTemplate.swift */,
 				5E5FF29E2A265741002BD75C /* Response.swift */,
 			);
 			path = "youtube-onedaybuild";
@@ -153,6 +156,7 @@
 				5E57314A2A24E0EB0025C0E4 /* ViewController.swift in Sources */,
 				5E5731462A24E0EB0025C0E4 /* AppDelegate.swift in Sources */,
 				5E5731482A24E0EB0025C0E4 /* SceneDelegate.swift in Sources */,
+				5E5FF2A12A278CFD002BD75C /* ConstantsTemplate.swift in Sources */,
 				5E57315E2A24F9700025C0E4 /* Model.swift in Sources */,
 				5E57315A2A24F6C50025C0E4 /* Constants.swift in Sources */,
 				5E57315C2A24F9230025C0E4 /* Video.swift in Sources */,
